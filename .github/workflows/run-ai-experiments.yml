@@ -41,7 +41,7 @@ jobs:
     
     - name: Upload results
       if: always()
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: experiment-results-py${{ matrix.python-version }}
         path: ai_experiments/
