@@ -1,4 +1,4 @@
-# AI Python Code Experimentation
+# AI-Experiments
 
 ## Overview
 This repository is dedicated to AI-powered Python code experimentation and development.
